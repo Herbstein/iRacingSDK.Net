@@ -1,3 +1,5 @@
+# This is a fork, with development continuing at the [gitlab repository](https://gitlab.com/reverendracing/iracingsdkdotnet)
+
 #iRacingSDK.Net - Alternative
 
 [![Build status](https://ci.appveyor.com/api/projects/status/853b0br452jiflwg?svg=true)](https://ci.appveyor.com/project/vipoo/iracingsdk-net)
